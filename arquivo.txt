@@ -1,2 +1,8 @@
-"Versionamento de software 3C " 
+"Versionamento de software 3C - aula do dia 5/3/2026" 
 Alunos do 3C 
+
+
+
+estudamos sobre o git e como criar o repositorio local
+todos participaram
+foi um sucesso!!
